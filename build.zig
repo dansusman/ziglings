@@ -1049,7 +1049,7 @@ const exercises = [_]Exercise{
     .{
         .main_file = "070_comptime5.zig",
         .output =
-        \\"Quack." ducky1: true, "Squeek!" ducky2: true, ducky3: false
+        \\ducky1: true, ducky2: true, ducky3: false
         ,
         .hint = "Have you kept the wizard hat on?",
     },
